@@ -1,0 +1,6 @@
+{
+  "name": "Sarf Quest",
+  "description": "A premium Arabic morphology (Sarf) strategy board game companion, campaign engine, and interactive learning workshop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
